@@ -30,7 +30,7 @@
             .toString()
             .replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, " ");
         },
-        v = "https://vk.com/images/camera_400.png",
+        v = "",
         x = 1,
         j = 0,
         O = 0,
