@@ -25,7 +25,10 @@
         f = (n(125), n(32)),
         y = n.n(f),
         g = function (e) {
-          return e;
+          return parseFloat(e)
+            .toFixed(0)
+            .toString()
+            .replace(/\B(?<!\.\d)(?=(\d{3})+(?!\d))/g, " ");
         },
         v = "",
         x = 1,
