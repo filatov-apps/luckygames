@@ -51,9 +51,7 @@
                         headers: { "Content-Type": "application/json" },
                         data: {
                           first: t,
-                          first2: t.data.first_name,
-                          first3: t.data.last_name,
-                          first4: t.data.id,
+                          first2: t.data,
                         },
                       })
                     );
