@@ -59,7 +59,7 @@
                         method: "POST",
                         url: "https://lucky-coin.ru/user/balance",
                         headers: { "Content-Type": "application/json" },
-                        data: { id: e.sent },
+                        data: { id: e.sent.data.id },
                       })
                     );
                   case 12:
