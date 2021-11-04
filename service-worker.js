@@ -16,7 +16,7 @@ importScripts(
 );
 
 importScripts(
-  "/luckygames/precache-manifest.0a06f954c749a413a2edd58d8f8749ad.js"
+  "/luckygames/precache-manifest.3f1cb8707c251391e7224e8c03085f5c.js"
 );
 
 self.addEventListener("message", (event) => {
@@ -36,7 +36,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(
-  workbox.precaching.getCacheKeyForURL("/index.html"),
+  workbox.precaching.getCacheKeyForURL("/luckygames/index.html"),
   {
     blacklist: [/^\/_/, /\/[^/?]+\.[^/]+$/],
   }
