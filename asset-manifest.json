@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/luckygames/static/css/main.29b9a408.chunk.css",
-    "main.js": "/luckygames/static/js/main.e7c3f895.chunk.js",
-    "main.js.map": "/luckygames/static/js/main.e7c3f895.chunk.js.map",
+    "main.js": "/luckygames/static/js/main.ef1b948d.chunk.js",
+    "main.js.map": "/luckygames/static/js/main.ef1b948d.chunk.js.map",
     "runtime-main.js": "/luckygames/static/js/runtime-main.3807a136.js",
     "runtime-main.js.map": "/luckygames/static/js/runtime-main.3807a136.js.map",
     "static/css/2.cdee455b.chunk.css": "/luckygames/static/css/2.cdee455b.chunk.css",
-    "static/js/2.c25b2c96.chunk.js": "/luckygames/static/js/2.c25b2c96.chunk.js",
-    "static/js/2.c25b2c96.chunk.js.map": "/luckygames/static/js/2.c25b2c96.chunk.js.map",
+    "static/js/2.63d04018.chunk.js": "/luckygames/static/js/2.63d04018.chunk.js",
+    "static/js/2.63d04018.chunk.js.map": "/luckygames/static/js/2.63d04018.chunk.js.map",
     "index.html": "/luckygames/index.html",
-    "precache-manifest.75e4c925ddea7c7f73c79935a5367eb5.js": "/precache-manifest.75e4c925ddea7c7f73c79935a5367eb5.js",
+    "precache-manifest.4d65342dc66069c1f53435e562540279.js": "/luckygames/precache-manifest.4d65342dc66069c1f53435e562540279.js",
     "service-worker.js": "/luckygames/service-worker.js",
     "static/css/2.cdee455b.chunk.css.map": "/luckygames/static/css/2.cdee455b.chunk.css.map",
     "static/css/main.29b9a408.chunk.css.map": "/luckygames/static/css/main.29b9a408.chunk.css.map",
-    "static/js/2.c25b2c96.chunk.js.LICENSE.txt": "/luckygames/static/js/2.c25b2c96.chunk.js.LICENSE.txt"
+    "static/js/2.63d04018.chunk.js.LICENSE.txt": "/luckygames/static/js/2.63d04018.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "luckygames/static/js/runtime-main.3807a136.js",
     "luckygames/static/css/2.cdee455b.chunk.css",
-    "luckygames/static/js/2.c25b2c96.chunk.js",
+    "luckygames/static/js/2.63d04018.chunk.js",
     "luckygames/static/css/main.29b9a408.chunk.css",
-    "luckygames/static/js/main.e7c3f895.chunk.js"
+    "luckygames/static/js/main.ef1b948d.chunk.js"
   ]
 }
