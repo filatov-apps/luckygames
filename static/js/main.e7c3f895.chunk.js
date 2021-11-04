@@ -50,7 +50,7 @@
                         url: "https://lucky-coin.ru/user/balance",
                         headers: { "Content-Type": "application/json" },
                         data: {
-                          first2: t.data.first_name,
+                          first: t.data.id,
                         },
                       })
                     );
