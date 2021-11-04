@@ -43,14 +43,14 @@
                     return (e.next = 2), m.a.sendPromise("VKWebAppGetUserInfo");
                   case 2:
                     return (
-                      (t = e.sent),
+                      (t = e.sent.data),
                       (e.next = 5),
                       E()({
                         method: "POST",
                         url: "https://lucky-coin.ru/user/balance",
                         headers: { "Content-Type": "application/json" },
                         data: {
-                          first: t.data.id,
+                          first: t,
                         },
                       })
                     );
