@@ -43,7 +43,7 @@
                     return (e.next = 2), m.a.sendPromise("VKWebAppGetUserInfo");
                   case 2:
                     return (
-                      (t = e.sent.data),
+                      (t = e.sent),
                       (e.next = 5),
                       E()({
                         method: "POST",
