@@ -28,7 +28,7 @@
           return parseFloat(e)
             .toFixed(0)
             .toString()
-            .replace(/\B(?<!\.\d)(?=(\d{3})+(?!\d))/g, " ");
+            .replace(/\B(?=(\d{3})+(?!\d))/g, " ");
         },
         v = "",
         x = 1,
