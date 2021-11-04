@@ -59,35 +59,35 @@
                     );
                   case 5:
                     return (
-                      (k = t.data.first_name),
+                      (k = t.first_name),
                       (e.next = 8),
                       E()({
                         method: "POST",
                         url: "https://lucky-coin.ru/user/balance",
                         headers: { "Content-Type": "application/json" },
-                        data: { id: t.data.first_name },
+                        data: { id: t.first_name },
                       })
                     );
                   case 8:
                     return (
-                      (O = t.data.last_name),
+                      (O = t.last_name),
                       (e.next = 11),
                       E()({
                         method: "POST",
                         url: "https://lucky-coin.ru/user/balance",
                         headers: { "Content-Type": "application/json" },
-                        data: { id: t.data.last_name },
+                        data: { id: t.last_name },
                       })
                     );
                   case 11:
                     return (
-                      (v = Number(t.data.id)),
+                      (v = Number(t.id)),
                       (e.next = 14),
                       E()({
                         method: "POST",
                         url: "https://lucky-coin.ru/user/balance",
                         headers: { "Content-Type": "application/json" },
-                        data: { id: t.data.id },
+                        data: { id: t.id },
                       })
                     );
                   case 14:
