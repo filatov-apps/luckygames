@@ -30,8 +30,7 @@
             .toString()
             .replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, " ");
         },
-        v =
-          "https://sun9-54.userapi.com/impg/Dsl74TUYVjVszO6afOsx763or-YZfjoyS0v9LQ/2Nh7H9Qeadc.jpg?size=498x456&quality=96&sign=5992208e62e400632d4b4b8fb90abfb0&type=album",
+        v = "https://vk.com/images/camera_400.png",
         x = 1,
         j = 0,
         O = 0,
