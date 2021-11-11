@@ -16,7 +16,7 @@ importScripts(
 );
 
 importScripts(
-  "/luckygames/precache-manifest.da6b7ade4f8c42da09049089fee87c85.js"
+  "/luckygames/precache-manifest.f8f26eab728a1f4844d88e871e81ccf5.js"
 );
 
 self.addEventListener("message", (event) => {
